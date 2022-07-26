@@ -12,7 +12,7 @@ public class PruebamarioApplication {
 
     @RequestMapping("/")
     String suma(){
-        return "Holiiiii i love aleman";
+        return "Holiiiii";
     }
 
     public static void main(String[] args) {
